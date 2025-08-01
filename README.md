@@ -16,6 +16,9 @@ Hello! I **Kirill**, I write in the `C++` programming language, and mostly `3D e
 **Main languages:** `C++, Rust`    
 **Databases:** `MySQL, Docker`  
 
+> [!NOTE]
+I mostly write code in Google Style. https://google.github.io/styleguide/cppguide.html#The__define_Guard
+
 # All technologies and languages used
 ![C++](https://img.shields.io/badge/C++-ff4d00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
