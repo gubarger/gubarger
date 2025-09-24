@@ -6,8 +6,7 @@
 
 ## 👋 About Me
 > [!IMPORTANT]
-Hello! I **Kirill**, I write in the `C++` programming language, and mostly `3D engines` or other `useful programs`.    
-💻 I'm writing pretty good code `(as far as I'm concerned)`. I'm still learning, and any support would be great for me.  
+Hello! I **Kirill**, I write in the `C++` programming language, and mostly `3D engines` or other `useful programs`. I'm still learning, and any support would be great for me.  
 🚀 I'm fond of open-source and creating engines.  
 
 ![dexter](https://github.com/user-attachments/assets/443d0d6b-92fc-4bc5-9729-40a99c7954e1)
